@@ -3,7 +3,7 @@
 
 The challenge in this week was getting comfortable using SQL, node.js, and PostgreSQL together to build simple, full-stack applications. The success was in gaining a stronger understanding of RESTful HTTP methods, and how data is accessed and displayed between the client-side and server-side. I found that studying the code demos in-depth and trying to clarify what's happening with each HTTP method/SQL query at a fundamental level really helps cement the material and understand the bigger picture.
 
-#### Summary of Skills/Concepts Learned
+### Summary of Skills/Concepts Learned
 
 - SQL (simple queries, conditions, joins)
 - PostgreSQL (creating databases and tables)
